@@ -1,27 +1,35 @@
-# ProjetoBuzzfeed
+# ProjetoBuzzfeed 🚀
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+Este é o **ProjetoBuzzfeed**, desenvolvido utilizando **Angular**. O objetivo deste projeto é criar uma aplicação interativa e dinâmica, com foco em aprendizado e boas práticas de desenvolvimento front-end.
 
-## Development server
+## Como utilizar a aplicação 🖥️
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### 1. Acesse a aplicação
 
-## Code scaffolding
+Para ver a aplicação funcionando localmente, basta acessar no seu navegador o seguinte endereço:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+👉 **`http://localhost:4200/`**
 
-## Build
+A aplicação será automaticamente recarregada sempre que você modificar qualquer arquivo do código.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### 2. Funcionalidades principais 🚀
 
-## Running unit tests
+- Exibição de conteúdo dinâmico.
+- Navegação simples e intuitiva.
+- Módulos separados para facilitar a manutenção e expansão.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## Como rodar o projeto localmente 🏡
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Pré-requisitos 📦
 
-## Further help
+Certifique-se de ter o **Node.js** e o **Angular CLI** instalados no seu sistema. Para isso, siga as instruções abaixo:
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. **Instalar o Node.js:**  
+   Baixe o Node.js [aqui](https://nodejs.org/).
+
+2. **Instalar o Angular CLI:**  
+   Após instalar o Node.js, instale o Angular CLI globalmente com o seguinte comando:
+   ```bash
+   npm install -g @angular/cli
